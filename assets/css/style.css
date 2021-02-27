@@ -1,0 +1,21 @@
+body {
+    font-family: candara;
+}
+
+.cus-font{
+    font-size: 14px;
+    color: black;
+}
+
+.fo-gray {
+    color: gray
+}
+
+.img-shadow {
+    -webkit-filter: drop-shadow(1px 1px 1px #222 );
+    filter: drop-shadow(1px 1px 1px #222);
+}
+
+.counter.counter-lg {
+    top: -24px !important;
+}
